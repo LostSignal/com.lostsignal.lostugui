@@ -1,0 +1,20 @@
+{
+    "name": "LostUGUI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8e683a3d6d1f7a74da811ef5727a2526",
+        "GUID:9c9eac44720c8e148964962a0bc81f19",
+        "GUID:f5d7dd13fe9636d44ad8b6152f365427"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
