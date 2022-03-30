@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99834ce35dde11140aa085983ec3768d, type: 3}
+  m_Name: XR Keyboard
+  m_EditorClassIdentifier: 
+  keyboards:
+  - name: English
+    lowerCaseText: 'qwertyuiop
+
+      asdfghjkl
+
+      zxcvbnm!?'
+    upperCaseText: 'QWERTYUIOP
+
+      ASDFGHJKL
+
+      ZXCVBNM!?'
+    numbersText: '1234567890
+
+      @#$_&-+()/
+
+      *"'':;!?'
+    symbolsText: "~`|\u2022\u221A\u03C0\xF7\xD7\n\xA3\xA2\u20AC\xA5^\xB0={}\\\n%\xA9\xAE\u2122[]"
+    keypadText: '123
+
+      456
+
+      789
+
+      .0-'
+    alternates:
+    - "a=\xE0\xE1\xE2\xE3\xE4\xE5\xE6"
+    - "e=\xE8\xE9\xEA\xEB"
+    - "i=\xEC\xED\xEE\xEF"
+    - "o=\xF2\xF3\xF4\xF5\xF6"
+    - "u=\xF9\xFA\xFB\xFC"
+    - "c=\xE7"
+    - "n=\xF1"
+    - "s=\xDF"
+    - "A=\xC0\xC1\xC2\xC3\xC4\xC5\xC6"
+    - "E=\xC8\xCA\xCB"
+    - "I=\xCC\xCD\xCE\xCF"
+    - "O=\xD2\xD3\xD4\xD5\xD6"
+    - "U=\xD9\xDA\xDB\xDC"
+    - "C=\xC7"
+    - "N=\xD1"
+    - "S=\xDF"
+    - "?=\xBF"
