@@ -4,8 +4,6 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-#if USING_LOST_UGUI
-
 namespace Lost.XR
 {
     using System;
@@ -47,5 +45,3 @@ namespace Lost.XR
         }
     }
 }
-
-#endif

@@ -4,8 +4,6 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-#if USING_LOST_UGUI
-
 namespace Lost.XR
 {
     using UnityEngine;
@@ -209,5 +207,3 @@ namespace Lost.XR
         }
     }
 }
-
-#endif
